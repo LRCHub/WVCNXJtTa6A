@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏果ての答え合わせ",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2025-12-14T02:30:32.309239Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏果ての答え合わせ (feat. 月乃)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_夏果ての答え合わせ_(feat._月乃)_Vivid_Lila.txt"
+    }
+  ]
+}
